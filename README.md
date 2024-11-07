@@ -3,7 +3,7 @@
 
 <p>
 
-- 🔭 I worked at **Banking, Contract Lifecycle Management, CyberSecurity Domain**
+- 🔭 I worked at **Banking, Contract Lifecycle Management, Cyber Security Domain**
 
 - 💬 Ask me about **java, spring boot, python, Go lang, React ...**
 
